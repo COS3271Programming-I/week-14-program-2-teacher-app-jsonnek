@@ -1,0 +1,84 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=63581 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-14-program-2-teacher-app-jsonnek/out/production/Teacher APP Main
+How many people do you want to create? jon
+Invalid input. Please enter a whole number.
+How many people do you want to create? 1
+How many students do you want to create? 0
+How many teachers do you want to create? 2
+--- Person 1 ---
+First name: Jon
+Last name: McGarry
+Gender: M
+Age: 92
+Weight (lbs): 812
+Height (in): 49
+Ethnicity: Purple
+Religion: Whasa
+--- Teacher 1 ---
+First name: Michall
+Last name: Hamman
+Gender: M
+Age: 37
+Weight (lbs): 190
+Height (in): 75
+Ethnicity: White
+Religion: Christian
+Subject: Physics
+--- Teacher 2 ---
+First name: Jamison
+Last name: Langer
+Gender: M
+Age: 53
+Weight (lbs): 200
+Height (in): 74
+Ethnicity: White
+Religion: Christian
+Subject: English
+--- All Data ---
+--- People ---
+Class:      Person
+Name:       Jon McGarry
+Gender:     M
+Age:        92
+Weight:     812.0 lbs
+Height:     49.0 in
+Ethnicity:  Purple
+Religion:   Whasa
+--- Students ---
+--- Teachers ---
+Class:      Teacher
+Name:       Michall Hamman
+Gender:     M
+Age:        37
+Weight:     190.0 lbs
+Height:     75.0 in
+Ethnicity:  White
+Religion:   Christian
+Subject:    Physics
+Class:      Teacher
+Name:       Jamison Langer
+Gender:     M
+Age:        53
+Weight:     200.0 lbs
+Height:     74.0 in
+Ethnicity:  White
+Religion:   Christian
+Subject:    English
+
+Who do you want to interact with?
+1. Person
+3. Teacher
+0. Exit
+Choice: 1
+Which person (1-1)? 1
+1. Greeting  2. Prayer  3. Nap  4. Eat  5. Print Name  6. Change Religion
+Choice: 6
+New religion: O
+
+Who do you want to interact with?
+1. Person
+3. Teacher
+0. Exit
+Choice: 0
+Goodbye!
+
+Process finished with exit code 0

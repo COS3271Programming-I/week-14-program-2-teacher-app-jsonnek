@@ -1,0 +1,90 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=63519 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-14-program-2-teacher-app-jsonnek/out/production/Teacher APP Main
+How many people do you want to create?
+1
+How many students do you want to create?
+1
+How many teachers do you want to create?
+0
+--- Person 1 ---
+First name: Porter
+Last name: Burman
+Gender: M
+Age: 18
+Weight (lbs): 165
+Height (in): 71
+Ethnicity: White
+Religion: Catholic
+--- Student 1 ---
+First name: Jonathan
+Last name: Sonnek
+Gender: M
+Age: 18
+Weight (lbs): 180
+Height (in): 72
+Ethnicity: White
+Religion: Catholic
+Major: Computer Engineering
+Year (Freshman/Sophomore/Junior/Senior): Freshman
+Email: jsonnek@gmail.com
+--- All Data ---
+--- People ---
+Class:      Person
+Name:       Porter Burman
+Gender:     M
+Age:        18
+Weight:     165.0 lbs
+Height:     71.0 in
+Ethnicity:  White
+Religion:   Catholic
+--- Students ---
+Class:      Student
+Name:       Jonathan Sonnek
+Gender:     M
+Age:        18
+Weight:     180.0 lbs
+Height:     72.0 in
+Ethnicity:  White
+Major:      Computer Engineering
+Year:       Freshman
+Email:      jsonnek@gmail.com
+--- Teachers ---
+
+Who do you want to interact with?
+1. Person
+2. Student
+0. Exit
+Choice: 2
+Which student (1-1)? 1
+1. Greeting  2. Prayer  3. Nap  4. Eat  5. Print Name  6. Change Religion  7. Go to Class
+Choice: 7
+Walking to class...
+
+Who do you want to interact with?
+1. Person
+2. Student
+0. Exit
+Choice: 1
+Which person (1-1)? 1
+1. Greeting  2. Prayer  3. Nap  4. Eat  5. Print Name  6. Change Religion
+Choice: 2
+
+                         Our Father, Who art in heaven,
+                              hallowed be Thy Name.
+                                Thy kingdom come,
+                 Thy will be done, on earth as it is in Heaven.
+                        Give us this day our daily bread,
+                         and forgive us our trespasses,
+                  as we forgive those who trespass against us,
+                        and lead us not into temptation,
+                            but deliver us from evil.
+
+                                      Amen.
+
+Who do you want to interact with?
+1. Person
+2. Student
+0. Exit
+Choice: 0
+Goodbye!
+
+Process finished with exit code 0
